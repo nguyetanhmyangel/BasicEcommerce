@@ -1,5 +1,3 @@
-using Xunit;
-
 namespace BasicEcommerce.Domain.UnitTests;
 
 public class UnitTest1

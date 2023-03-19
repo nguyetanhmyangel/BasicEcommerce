@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UyKjeDeRQTGh2LalnamIwoM2z5cikKtoLjVIAmJenN82fSyuUqo4lQFFzfC0J4qhUmfx34gehEKCr8GqdhXBUg==",
+  "success": true,
+  "projectFilePath": "/home/moonlight/Projects/Net7/BasicEcommerce/netcore/src/BasicEcommerce.Share/BasicEcommerce.Share.csproj",
+  "expectedPackageFiles": [
+    "/home/moonlight/.nuget/packages/microsoft.extensions.localization.abstractions/7.0.4/microsoft.extensions.localization.abstractions.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

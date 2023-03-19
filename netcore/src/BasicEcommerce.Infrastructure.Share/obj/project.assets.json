@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net7.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net7.0": []
   },
   "packageFolders": {
     "/home/moonlight/.nuget/packages/": {}
@@ -13,24 +13,24 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/moonlight/Projects/Net6/BasicEcommerce/netcore/src/BasicEcommerce.Infrastructure.Share/BasicEcommerce.Infrastructure.Share.csproj",
+      "projectUniqueName": "/home/moonlight/Projects/Net7/BasicEcommerce/netcore/src/BasicEcommerce.Infrastructure.Share/BasicEcommerce.Infrastructure.Share.csproj",
       "projectName": "BasicEcommerce.Infrastructure.Share",
-      "projectPath": "/home/moonlight/Projects/Net6/BasicEcommerce/netcore/src/BasicEcommerce.Infrastructure.Share/BasicEcommerce.Infrastructure.Share.csproj",
+      "projectPath": "/home/moonlight/Projects/Net7/BasicEcommerce/netcore/src/BasicEcommerce.Infrastructure.Share/BasicEcommerce.Infrastructure.Share.csproj",
       "packagesPath": "/home/moonlight/.nuget/packages/",
-      "outputPath": "/home/moonlight/Projects/Net6/BasicEcommerce/netcore/src/BasicEcommerce.Infrastructure.Share/obj/",
+      "outputPath": "/home/moonlight/Projects/Net7/BasicEcommerce/netcore/src/BasicEcommerce.Infrastructure.Share/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/moonlight/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net6.0"
+        "net7.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "projectReferences": {}
         }
       },
@@ -41,15 +41,16 @@
       }
     },
     "frameworks": {
-      "net6.0": {
-        "targetAlias": "net6.0",
+      "net7.0": {
+        "targetAlias": "net7.0",
         "imports": [
           "net461",
           "net462",
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -58,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.113/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
       }
     }
   }
